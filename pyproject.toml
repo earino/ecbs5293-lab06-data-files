@@ -1,0 +1,8 @@
+[project]
+name = "ecbs5293-lab06-data-files"
+version = "0.1.0"
+description = "ECBS5293 lab 6: the data is the bug"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas",
+]
